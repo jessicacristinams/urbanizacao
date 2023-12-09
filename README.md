@@ -131,7 +131,9 @@ Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jan
 
 </span>
 
-
+<p align="center">
+<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/136030f6-5dd3-4656-9056-1c90bb79335b" width="50%" height="30%"/>
+</p>
 
 ## 🙋🏾‍♀️ Autora
 
@@ -143,3 +145,8 @@ Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jan
  <br/>
 </a>
 </p>
+
+<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/jessica-cristina-machado/" target="_blank"><img src="https://img.shields.io/badge/-Jessica_Cristina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-cristina-machado/" target="_blank"></a> </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
