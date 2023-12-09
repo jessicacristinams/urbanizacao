@@ -13,7 +13,7 @@
 <br>
 <br>
 
- Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau
+ Este projeto é uma Análise de dados feita no Jupyter Notebook com visualização no Tableau.
 
 <br>
 <br>
