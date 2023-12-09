@@ -23,7 +23,6 @@
 - [👧🏾 Objetivo](#-Objetivo)
 - [📁 Arquitetura do Projeto](#-Arquitetura-do-Projeto)
 - [👩🏾‍💻 Tecnologias e Dependências Utilizadas](#-Tecnologias-e-Dependências-Utilizadas)
-- [👩🏾‍🔧 Visualização](#-Visualização)
 - [⚗️ Interface Gráfica](#-Interface-Gráfica)
 - [🙋🏾‍♀️ Autora](#-Autora)
 
@@ -111,3 +110,36 @@ Link para o site com as bases de dados utilizadas:
 
 <br>
 <br>
+## ⚗️ Interface Gráfica
+
+<br>
+
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com).
+
+<br>
+<br>
+
+Projeto criado com a orientação e cuidado da Professora Mariana Rezende.
+Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jani, nossa facilitadora, à Ju, que nos acolheu em meio aos caos e as incertezas, todas minhas colegas da On26, em especial minha colega Mariana Oliveira a quem serei eternamente grata. 💜 
+
+<br>
+<br>
+
+<span align="center">
+
+#  Muito obrigada a você que chegou até aqui! 😊 </h2>
+
+</span>
+
+
+
+## 🙋🏾‍♀️ Autora
+
+<br>
+
+<p align="center">
+<a>
+ <img style="border-radius: 50%;" src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/3247c382-dd54-468a-85d7-7aac0c4117d2" width="100px;" alt="Foto de perfil de Jessica"/>
+ <br/>
+</a>
+</p>
