@@ -8,7 +8,7 @@
 
 # <br> Projeto Final {Reprograma} - Urbanização
 
-## Este é projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
+## Este é o projeto final do curso de Análise de Dados | Turma On26 da [{Reprograma}](https://www.reprograma.com.br/).
 
 <br>
 <br>
