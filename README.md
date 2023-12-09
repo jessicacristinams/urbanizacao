@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <p align="center">
-<img src= "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Fjornal.usp.br%2Fwp-content%2Fuploads%2F20170822_00_cidade_predios_urbano.jpg%3Fresize%3D800%252C420&tbnid=GwN0svSmt5wtiM&vet=12ahUKEwjUgsHO_oGDAxUEBbkGHYpxDp8QMygTegUIARCcAQ..i&imgrefurl=https%3A%2F%2Fjornal.usp.br%2Fciencias%2Fciencias-da-saude%2Fcomo-a-urbanizacao-e-a-globalizacao-influenciam-a-saude-populacional%2F&docid=UVcnxzD4j9LIuM&w=800&h=420&q=urbaniza%C3%A7%C3%A3o&client=ubuntu-sn&ved=2ahUKEwjUgsHO_oGDAxUEBbkGHYpxDp8QMygTegUIARCcAQ" width="50%" height="30%"/>
+<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/d62d782b-e572-4224-8b17-0e50c0e3bd0f" width="50%" height="30%"/>
 </p>
 
 <p align="center"><b> Urbanização </b> 🏨 <p>
