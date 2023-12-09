@@ -44,6 +44,20 @@ O objetivo desta análise de dados é entender porque a urbanização está acon
 Urbanização é o crescimento das cidades, tanto em população quanto em extensão territorial. É o processo em que o espaço rural transforma-se em espaço urbano, com a consequente migração populacional do tipo campo–cidade que, quando ocorre de forma intensa e acelerada, é chamada de êxodo rural.
 
 
+#### Por que ❓
+
+
+O aumento das indústrias, vinculado a um expressivo desenvolvimento tecnológico, fez com que as pessoas migrassem para as cidades à procura de trabalho.
+
+
+#### Consequências ❓
+
+
+O processo de urbanização, além de ocorrer de forma desigual, não só no Brasil mas em diversas partes do mundo, dá-se de forma desordenada, apontando então a falta de planejamento. Isso acarreta diversos problemas urbanos de ordem social e ambiental. São alguns deles: Favelização, Excesso de lixo, Poluição, Violência e Inundações.
+
+
+
+
 
 *Esta análise é somente uma amostra de dados disponíveis na internet, não possui nenhuma intenção de alarmar e é apenas um projeto de cunho pessoal.*
 
