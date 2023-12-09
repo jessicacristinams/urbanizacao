@@ -42,6 +42,11 @@ O objetivo desta análise de dados é entender porque a urbanização está acon
 
 
 Urbanização é o crescimento das cidades, tanto em população quanto em extensão territorial. É o processo em que o espaço rural transforma-se em espaço urbano, com a consequente migração populacional do tipo campo–cidade que, quando ocorre de forma intensa e acelerada, é chamada de êxodo rural.
+<p align="center">
+<img src=https://github.com/jessicacristinams/urbanizacao/assets/109877484/5dc4ae4a-26e4-40cd-b987-befbd99bc137" width="50%" height="30%"/>
+</p>
+
+
 
 
 #### Por que ❓
