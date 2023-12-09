@@ -61,8 +61,10 @@ O aumento das indústrias, vinculado a um expressivo desenvolvimento tecnológic
 O processo de urbanização, além de ocorrer de forma desigual, não só no Brasil mas em diversas partes do mundo, dá-se de forma desordenada, apontando então a falta de planejamento. Isso acarreta diversos problemas urbanos de ordem social e ambiental. São alguns deles: Favelização, Excesso de lixo, Poluição, Violência e Inundações.
 
 
+#### Proposta de solução ❓
 
 
+Planejamento urbano.
 
 *Esta análise é somente uma amostra de dados disponíveis na internet, não possui nenhuma intenção de alarmar e é apenas um projeto de cunho pessoal.*
 
