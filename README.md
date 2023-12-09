@@ -132,7 +132,7 @@ Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jan
 </span>
 
 <p align="center">
-<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/136030f6-5dd3-4656-9056-1c90bb79335b" width="50%" height="30%"/>
+<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/136030f6-5dd3-4656-9056-1c90bb79335b](https://cdn.pixabay.com/animation/2023/03/19/19/55/19-55-58-835_256.gif" width="50%" height="30%"/>
 </p>
 
 ## 🙋🏾‍♀️ Autora
@@ -141,7 +141,7 @@ Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jan
 
 <p align="center">
 <a>
- <img style="border-radius: 50%;" src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/3247c382-dd54-468a-85d7-7aac0c4117d2](https://cdn.pixabay.com/animation/2023/03/19/19/55/19-55-58-835_256.gif" width="100px;" alt="Foto de perfil de Jessica"/>
+ <img style="border-radius: 50%;" src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/850eae9c-8ea8-41eb-96fe-522c9a1e7d71" width="100px;" alt="Foto de perfil de Jessica"/>
  <br/>
 </a>
 </p>
