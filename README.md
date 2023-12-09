@@ -1,7 +1,7 @@
 <h1 align="center">
 
 <p align="center">
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrasilescola.uol.com.br%2Fbrasil%2Furbanizacao.htm&psig=AOvVaw03Z1Rbi0caerwWE6ALsnAI&ust=1702198747046000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC8iq3_gYMDFQAAAAAdAAAAABAD" width="50%" height="30%"/>
+<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/aca6b301-05b7-4c8a-bec4-457756989bef)" width="50%" height="30%"/>
 </p>
 
 <p align="center"><b> Urbanização </b> 🏨 <p>
@@ -42,9 +42,7 @@ O objetivo desta análise de dados é entender porque a urbanização está acon
 #### O que é ❓
 
 
-Urbanização é o crescimento das cidades, tanto em população quanto em extensão territorial. É o processo em que o espaço rural transforma-se em espaço urbano,
-
-com a consequente migração populacional do tipo campo–cidade que, quando ocorre de forma intensa e acelerada, é chamada de êxodo rural.
+Urbanização é o crescimento das cidades, tanto em população quanto em extensão territorial. É o processo em que o espaço rural transforma-se em espaço urbano, com a consequente migração populacional do tipo campo–cidade que, quando ocorre de forma intensa e acelerada, é chamada de êxodo rural.
 
 
 
