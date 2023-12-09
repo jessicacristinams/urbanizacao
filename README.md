@@ -132,7 +132,7 @@ Grata à {reprograma} por promover esse espaço educativo e colaborativo, à Jan
 </span>
 
 <p align="center">
-<img src= "https://github.com/jessicacristinams/urbanizacao/assets/109877484/136030f6-5dd3-4656-9056-1c90bb79335b](https://cdn.pixabay.com/animation/2023/03/19/19/55/19-55-58-835_256.gif" width="50%" height="30%"/>
+<img src= "https://media1.giphy.com/media/KIEflKD1BwDRr3fjgD/giphy.gif?cid=ecf05e47emiemrbkndmjg4o2trzvwetpftl93aur915c561s&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50%" height="30%"/>
 </p>
 
 ## 🙋🏾‍♀️ Autora
