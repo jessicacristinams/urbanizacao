@@ -50,3 +50,64 @@ Urbanização é o crescimento das cidades, tanto em população quanto em exten
 
 <br>
 <br>
+
+
+**[Apresentação do Projeto Final](https://www.canva.com)**
+
+<br>
+<br>
+
+
+## 📁 Arquitetura do Projeto
+
+<br>
+
+```
+ 📁 urbanizacao
+   |
+   |  
+   |
+   |--📁 dataset
+   |  ||
+   |  ||
+   |  ||--📁 urbanizacao arquivos
+   |  |    |- 📄 share-of-population-urban.csv
+   |  |    |- 📄 share-of-population-urban.csv
+   |  |    |- 📄 share-of-urban-population-living-in-slums.csv
+   |  |
+   |  |
+   |  |
+   |- 📄 canva.pdf
+   |- 📄 tableau.twbx
+   |- 📄 readme.csv
+
+
+```
+
+<br>
+<br>
+
+
+## 👩🏾‍💻 Tecnologias e Dependências Utilizadas
+
+<br>
+
+| Ferramenta | Descrição |
+| --- | --- |
+| `python` | Linguagem de programação. |
+| `pandas`    | Biblioteca criada para a linguagem Python para manipulação e análise de dados.|
+| `numpy`    | Biblioteca para a linguagem Python, que suporta o processamento de grandes, multi-dimensionais arranjos e matrizes. |
+| `matplotlib`   | Biblioteca de software para criação de gráficos e visualizações de dados em geral, feita para e da linguagem de programação Python.|
+| `seaborn`    | Ferramenta para plotagem dos mais variados tipos de gráficos em Python.|
+| `jupyter notebook`| Aplicação web criada para desenvolver software de código aberto, padrões abertos e serviços para computação interativa em dezenas de linguagens de programação.|
+| `Tableau`    | Plataforma de análise, exploração e gerenciamento de dados visuais.|
+
+
+<br>
+Link para o site com as bases de dados utilizadas:
+
+📝 [Our World in Data](https://ourworldindata.org/urbanization#all-charts)
+
+
+<br>
+<br>
