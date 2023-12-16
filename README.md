@@ -135,7 +135,7 @@ Link para o site com as bases de dados utilizadas:
 
 <br>
 
-📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com).
+📌 Este projeto está com visualizações públicas no Tableau. Você pode acessar no link [Tableau](https://public.tableau.com/app/profile/j.ssica.machado/viz/Urbanizacao/Histria1).
 
 <br>
 <br>
