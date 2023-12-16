@@ -43,11 +43,12 @@ O objetivo desta análise de dados é entender porque a urbanização está acon
 
 Urbanização é o crescimento das cidades, tanto em população quanto em extensão territorial. É o processo em que o espaço rural transforma-se em espaço urbano, com a consequente migração populacional do tipo campo–cidade que, quando ocorre de forma intensa e acelerada, é chamada de êxodo rural.
 <p align="center">
-<img src=https://github.com/jessicacristinams/urbanizacao/assets/109877484/5dc4ae4a-26e4-40cd-b987-befbd99bc137" width="50%" height="30%"/>
+<img src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/a69a9c6c-51e5-4225-a8ff-85b41a780534" width="50%" height="30%"/>
 </p>
 
-
-
+<p align="center">
+<img src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/27781621-0315-45f0-b901-0496fa31aab7" width="50%" height="30%"/>
+</p>
 
 #### Por que ❓
 
@@ -60,21 +61,19 @@ O aumento das indústrias, vinculado a um expressivo desenvolvimento tecnológic
 
 O processo de urbanização, além de ocorrer de forma desigual, não só no Brasil mas em diversas partes do mundo, dá-se de forma desordenada, apontando então a falta de planejamento. Isso acarreta diversos problemas urbanos de ordem social e ambiental. São alguns deles: Favelização, Excesso de lixo, Poluição, Violência e Inundações.
 
+<p align="center">
+<img src="https://github.com/jessicacristinams/urbanizacao/assets/109877484/176ccafd-f149-44e8-8a50-dd780dbfa322" width="50%" height="30%"/>
+</p>
 
 #### Proposta de solução ❓
 
 
-Planejamento urbano.
+Umas das formas de erradicar e diminuir o crescimentos das favelas é que hajam políticas de planejamento urbano.
 
 *Esta análise é somente uma amostra de dados disponíveis na internet, não possui nenhuma intenção de alarmar e é apenas um projeto de cunho pessoal.*
 
 <br>
-<br>
 
-
-**[Apresentação do Projeto Final](https://www.canva.com)**
-
-<br>
 <br>
 
 
@@ -93,11 +92,12 @@ Planejamento urbano.
    |  ||--📁 urbanizacao arquivos
    |  |    |- 📄 share-of-population-urban.csv
    |  |    |- 📄 share-of-population-urban.csv
-   |  |    |- 📄 share-of-urban-population-living-in-slums.csv
+   |  |    |- 📄 df_favelas_tratado.csv
+   |  |    |- 📄 df_urban_tratado.csv
+   |  |    |- 📄 urbanizacao.ipynb
    |  |
    |  |
    |  |
-   |- 📄 canva.pdf
    |- 📄 urbanizacao.twbx
    |- 📄 readme.csv
 
